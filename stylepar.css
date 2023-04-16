@@ -1,0 +1,125 @@
+body {
+    background-color: #E5E3D7;
+}
+
+.first {
+    background-color: #C09984;
+}
+
+.second {
+    background-color: #E5E3D7;
+}
+
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 60px;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#first {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#titre {
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+#commentaire {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+#cachan {
+    border-radius: 25px;
+}
+
+#titrepar {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+h5,
+h4 {
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.experiences {
+    background-color: #A6A998;
+}
+
+#commentairstageita {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+#commentairestage {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+#titrestage {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    text-align: left;
+}
+
+#titrebold {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    text-align: left;
+}
+
+#competencesbold {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align: left;
+}
+
+#competences {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align: left;
+}
+
+.mescompetences {
+    background-color: #DD8E58;
+}
+
+#titreh2 {
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#titreinterets {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+#passions {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

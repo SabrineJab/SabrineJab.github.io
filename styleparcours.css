@@ -1,0 +1,267 @@
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 60px;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#first {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#titre {
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+#commentaire {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+#cachan {
+    border-radius: 25px;
+}
+
+
+h5 {
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+
+}
+
+h4 {
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+
+
+#commentairstageita {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: #fff;
+}
+
+#commentairestage {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    color: #fff;
+}
+
+#titrestage {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    text-align: left;
+    color: #fff;
+}
+
+#titrebold {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    text-align: left;
+}
+
+#competencesbold {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align: left;
+}
+
+#competences {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align: left;
+}
+
+#titreh2 {
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#titreinterets {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+#passions {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#titolobianco {
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#commentaireblanc {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    color: white;
+    text-align: left;
+}
+
+#titreblanc {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+hr {
+    border: none;
+    border-top: 3px double #ffff;
+    color: #fff;
+    overflow: visible;
+    text-align: center;
+    height: 10px;
+}
+
+hr:after {
+    background: #72383D;
+    content: '***';
+    padding: 0 0.25em;
+    position: relative;
+    top: -27px;
+    font-size: 2.5em;
+}
+
+
+#hrnera {
+    border: none;
+    border-top: 3px double #000;
+    color: #000;
+    overflow: visible;
+    text-align: center;
+    height: 10px;
+}
+
+#hrnera:after {
+    background: #EFEFE9;
+    content: '***';
+    padding: 0 0.25em;
+    position: relative;
+    top: -27px;
+    font-size: 2.5em;
+}
+
+#hrazz {
+    border: none;
+    border-top: 3px double #fff;
+    color: #fff;
+    overflow: visible;
+    text-align: center;
+    height: 10px;
+}
+
+#hrazz:after {
+    background: #81999B;
+    content: '***';
+    padding: 0 0.25em;
+    position: relative;
+    top: -27px;
+    font-size: 2.5em;
+}
+
+#commentaireparita {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: #fff;
+}
+
+#commentairepar {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    color: #fff;
+}
+
+#titrepar {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    text-align: left;
+    color: #fff;
+}
+
+#hraran {
+    border: none;
+    border-top: 3px double #000;
+    color: #000;
+    overflow: visible;
+    text-align: center;
+    height: 10px;
+}
+
+#hraran:after {
+    background: #D89E46;
+    content: '***';
+    padding: 0 0.25em;
+    position: relative;
+    top: -27px;
+    font-size: 2.5em;
+}
+
+#hrver {
+    border: none;
+    border-top: 3px double #fff;
+    color: #fff;
+    overflow: visible;
+    text-align: center;
+    height: 10px;
+}
+
+#hrver:after {
+    background: #899481;
+    content: '***';
+    padding: 0 0.25em;
+    position: relative;
+    top: -27px;
+    font-size: 2.5em;
+}
+
+#hrbianco {
+    border: none;
+    border-top: 3px double #000;
+    color: #000;
+    overflow: visible;
+    text-align: center;
+    height: 10px;
+}
+
+#hrbianco:after {
+    background: #fff;
+    content: '***';
+    padding: 0 0.25em;
+    position: relative;
+    top: -27px;
+    font-size: 2.5em;
+}

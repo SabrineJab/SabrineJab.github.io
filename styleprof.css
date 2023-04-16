@@ -1,0 +1,52 @@
+/* Rounded border */
+hr.rounded {
+    border-top: 18px solid #ffffff;
+    border-radius: 10px;
+}
+
+hr {
+    border: none;
+    border-top: 3px double #ffff;
+    color: #ffffff;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+hr:after {
+    background: #223030;
+    content: '$';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
+
+#titolo {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 55px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 60px;
+}
+
+#diff {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 60px;
+    color: #ffffff;
+}
+
+#terzo {
+    background-color: #223030;
+}

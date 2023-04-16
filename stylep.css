@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 60px;
+}
+
+h3 {
+    color: white;
+    font-family: fantasy;
+    font-size: 100px;
+}
+
+#first {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#titre {
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+/* Rounded border */
+hr.rounded {
+    border-top: 18px solid #ffffff;
+    border-radius: 10px;
+}
+
+hr {
+    border: none;
+    border-top: 3px double #333;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+hr:after {
+    background: #fff;
+    content: '***';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
+
+#titolo {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 55px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}

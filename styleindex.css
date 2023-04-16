@@ -1,0 +1,71 @@
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 60px;
+}
+
+h3 {
+    color: white;
+    font-family: fantasy;
+    font-size: 100px;
+}
+
+#portfolio {
+    color: black;
+    font-family: fantasy;
+    font-size: 100px;
+}
+
+#first {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#titre {
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+
+
+hr {
+    border: none;
+    border-top: 3px double #000;
+    color: #000;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+hr:after {
+    background: #fff;
+    content: '';
+    padding: 0 0px;
+    position: relative;
+    top: -13px;
+}
+
+#titolo {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 55px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.card {
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+}
+
+.card-title {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
